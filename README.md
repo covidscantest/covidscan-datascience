@@ -2,7 +2,8 @@
 The goal of this project was to harness advancements in Machine Learning to help fight the COVID-19 pandemic by making Deep Learning Neural Networks easy to use for everyone.
 
 # About the system
-1. The Web Application
+
+# 1. The Web Application
 This allows users to upload scans and run prediction models in a web browser.
 
 # 2. Machine Learning Algorithms
@@ -22,13 +23,12 @@ Pneumonia	50%	20% (50% x 40%)
 COVID-19	10%	2% (10% x 20%)
 other	--	18% (remaining)
 
-Related links:
-Web app source code
-Machine learning notebooks
-Large Chest X-Ray Dataset https://stanfordmlgroup.github.io/competitions/chexpert/
-Hierarchical-Learning-V1 (ensemble) Vingroup Big Data Institute https://arxiv.org/abs/1911.06475
-COVID X-Ray dataset https://github.com/ieee8023/covid-chestxray-dataset
-Covid detection using Tensorflow https://rubikscode.net/2020/03/23/detection-of-covid-19-in-chest-x-rays-with-deep-learning/
+# Related links:
 
-#Final summary
+- Large Chest X-Ray Dataset https://stanfordmlgroup.github.io/competitions/chexpert/
+- Hierarchical-Learning-V1 (ensemble) Vingroup Big Data Institute https://arxiv.org/abs/1911.06475
+- COVID X-Ray dataset https://github.com/ieee8023/covid-chestxray-dataset
+- Covid detection using Tensorflow https://rubikscode.net/2020/03/23/detection-of-covid-19-in-chest-x-rays-with-deep-learning/
+
+# Final summary
 We hope someone will find our work useful either from detection, learning, reference or any other aspect. Keep in mind that this is open source software and you use it at your own risk. Machine learning is a powerful technique, but it is not ultimate truth since every algorithm it has it's limitations as far as predicting power goes. Stay safe and healthy.
